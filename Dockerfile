@@ -1,5 +1,5 @@
 # Sử dụng image chứa Python 3.11.9
-FROM python:3.11.9
+FROM python:3.14.0a3
 
 # Thiết lập biến môi trường
 ENV PYTHONUNBUFFERED=1
